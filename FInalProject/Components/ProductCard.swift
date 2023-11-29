@@ -28,7 +28,7 @@ struct ProductCard: View {
                     .font(.caption)
             }
             .padding()
-            .frame(width: 380, alignment: .leading)
+            .frame(width: 280, alignment: .leading)
             .background(.ultraThinMaterial)
             .cornerRadius(20)
         }
