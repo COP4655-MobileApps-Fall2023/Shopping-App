@@ -15,6 +15,7 @@
 		D2F362C52B17C00B002A4BBE /* FInalProjectUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2F362C42B17C00B002A4BBE /* FInalProjectUITests.swift */; };
 		D2F362C72B17C00B002A4BBE /* FInalProjectUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2F362C62B17C00B002A4BBE /* FInalProjectUITestsLaunchTests.swift */; };
 		D2F362D52B17C2D2002A4BBE /* Product.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2F362D42B17C2D2002A4BBE /* Product.swift */; };
+		D2F362D82B17C4B3002A4BBE /* ProductCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2F362D72B17C4B3002A4BBE /* ProductCard.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -46,6 +47,7 @@
 		D2F362C42B17C00B002A4BBE /* FInalProjectUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FInalProjectUITests.swift; sourceTree = "<group>"; };
 		D2F362C62B17C00B002A4BBE /* FInalProjectUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FInalProjectUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		D2F362D42B17C2D2002A4BBE /* Product.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Product.swift; sourceTree = "<group>"; };
+		D2F362D72B17C4B3002A4BBE /* ProductCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductCard.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,6 +100,7 @@
 			children = (
 				D2F362A92B17C004002A4BBE /* FInalProjectApp.swift */,
 				D2F362AB2B17C004002A4BBE /* ContentView.swift */,
+				D2F362D62B17C485002A4BBE /* Components */,
 				D2F362D32B17C2A5002A4BBE /* Models */,
 				D2F362AD2B17C00B002A4BBE /* Assets.xcassets */,
 				D2F362AF2B17C00B002A4BBE /* Preview Content */,
@@ -136,6 +139,14 @@
 				D2F362D42B17C2D2002A4BBE /* Product.swift */,
 			);
 			path = Models;
+			sourceTree = "<group>";
+		};
+		D2F362D62B17C485002A4BBE /* Components */ = {
+			isa = PBXGroup;
+			children = (
+				D2F362D72B17C4B3002A4BBE /* ProductCard.swift */,
+			);
+			path = Components;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -271,6 +282,7 @@
 				D2F362AC2B17C004002A4BBE /* ContentView.swift in Sources */,
 				D2F362AA2B17C004002A4BBE /* FInalProjectApp.swift in Sources */,
 				D2F362D52B17C2D2002A4BBE /* Product.swift in Sources */,
+				D2F362D82B17C4B3002A4BBE /* ProductCard.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
