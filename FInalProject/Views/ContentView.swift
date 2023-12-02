@@ -22,7 +22,7 @@ struct ContentView: View {
                 }
                 .padding()
             }
-            .navigationTitle("Dara Julo")
+            .navigationTitle("TUMISE")
             .toolbar {
                 NavigationLink{
                     CartView()
