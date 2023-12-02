@@ -28,6 +28,15 @@ struct ProductRow: View {
                 Text("$\(product.price)")
             }
             
+            Spacer()
+            
+            
+            Image(systemName: "trash")
+                .foregroundColor(.red)
+                .onTapGesture {
+                    cartManager.removeFromCart(product: product)
+                }
+            
         }
         .padding(.horizontal)
         .frame(maxWidth: .infinity, alignment: .leading)
