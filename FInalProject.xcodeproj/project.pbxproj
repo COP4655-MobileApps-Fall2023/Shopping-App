@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D23CA14C2B1BF479002C7CDA /* PaymentButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = D23CA14B2B1BF479002C7CDA /* PaymentButton.swift */; };
 		D2F362AA2B17C004002A4BBE /* FInalProjectApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2F362A92B17C004002A4BBE /* FInalProjectApp.swift */; };
 		D2F362AC2B17C004002A4BBE /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2F362AB2B17C004002A4BBE /* ContentView.swift */; };
 		D2F362AE2B17C00B002A4BBE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D2F362AD2B17C00B002A4BBE /* Assets.xcassets */; };
@@ -40,6 +41,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		D23CA14B2B1BF479002C7CDA /* PaymentButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaymentButton.swift; sourceTree = "<group>"; };
 		D2F362A62B17C004002A4BBE /* FInalProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FInalProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D2F362A92B17C004002A4BBE /* FInalProjectApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FInalProjectApp.swift; sourceTree = "<group>"; };
 		D2F362AB2B17C004002A4BBE /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -156,6 +158,7 @@
 				D2F362D72B17C4B3002A4BBE /* ProductCard.swift */,
 				D2F362DA2B1826AD002A4BBE /* CartButton.swift */,
 				D2F362E02B1AB8E2002A4BBE /* ProductRow.swift */,
+				D23CA14B2B1BF479002C7CDA /* PaymentButton.swift */,
 			);
 			path = Components;
 			sourceTree = "<group>";
@@ -299,6 +302,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D23CA14C2B1BF479002C7CDA /* PaymentButton.swift in Sources */,
 				D2F362DD2B1A9EED002A4BBE /* CartView.swift in Sources */,
 				D2F362AC2B17C004002A4BBE /* ContentView.swift in Sources */,
 				D2F362DF2B1AA1E0002A4BBE /* CartManager.swift in Sources */,
