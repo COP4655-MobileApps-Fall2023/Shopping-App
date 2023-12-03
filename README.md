@@ -87,9 +87,9 @@ Search Screen
 
 ### [BONUS] Interactive Prototype
 
-## Schema 
+## Schema/Demo
 
-[This section will be completed in Unit 9]
+(https://youtu.be/zxvPftz2MRg)
 
 ### Models
 
