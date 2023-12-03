@@ -34,10 +34,10 @@ Original App Design Project - README Template
 
 **Required Must-have Stories**
 
-* users who have purchases item can upload their review
+* users can view item
 * Users can add product to cart
-* Users can bid for a product
-* users can search for products 
+* user can delete product from cart
+
 
 **Optional Nice-to-have Stories**
 
