@@ -91,7 +91,7 @@ Search Screen
 
 (https://youtu.be/zxvPftz2MRg)
 
-### Models
+### GIF
 
 https://imgur.com/a/3gD5fCm.gif
 
