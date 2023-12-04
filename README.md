@@ -34,9 +34,9 @@ Original App Design Project - README Template
 
 **Required Must-have Stories**
 
-* users can view item
-* Users can add product to cart
-* user can delete product from cart
+* users can view item [complete]
+* Users can add product to cart [complete]
+* user can delete product from cart [complete]
 
 
 **Optional Nice-to-have Stories**
@@ -93,7 +93,7 @@ Search Screen
 
 ### Models
 
-[Add table of models]
+https://imgur.com/a/3gD5fCm.gif
 
 ### Networking
 
