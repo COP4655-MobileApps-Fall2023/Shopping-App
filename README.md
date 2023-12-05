@@ -34,9 +34,9 @@ Original App Design Project - README Template
 
 **Required Must-have Stories**
 
-* users can view item [complete]
-* Users can add product to cart [complete]
-* user can delete product from cart [complete]
+* users can view item [x]
+* Users can add product to cart [x]
+* user can delete product from cart [x]
 
 
 **Optional Nice-to-have Stories**
