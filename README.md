@@ -1,5 +1,5 @@
-# cop4655-mobile-apps-final-project-final-project-group-29
-cop4655-mobile-apps-final-project-final-project-group-29 created by GitHub Classroom
+# cop4655-mobile-apps-final-project-group-29
+cop4655-mobile-apps-final-project-group-29 created by GitHub Classroom
 Original App Design Project - README Template
 ===
 
